@@ -11,6 +11,7 @@ namespace Collections.NoGenerics
     {
         public static void PruebaNro1()
         {
+			// Este es un comentario solo con fines de prueba
             //Adding elements to ArrayList using Add() method
             ArrayList arrayList1 = new ArrayList();
             arrayList1.Add(101); //Adding Integer Value
