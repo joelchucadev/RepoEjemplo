@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections", "Collections\Collections.csproj", "{FF55DE7D-28CE-4560-90F6-06685A910EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LINQ", "LINQ\LINQ.csproj", "{A99AC360-C80D-46EB-80D5-14BA20672974}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF55DE7D-28CE-4560-90F6-06685A910EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF55DE7D-28CE-4560-90F6-06685A910EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF55DE7D-28CE-4560-90F6-06685A910EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF55DE7D-28CE-4560-90F6-06685A910EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A99AC360-C80D-46EB-80D5-14BA20672974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A99AC360-C80D-46EB-80D5-14BA20672974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A99AC360-C80D-46EB-80D5-14BA20672974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A99AC360-C80D-46EB-80D5-14BA20672974}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8C98F714-129C-42FC-9899-2ACAB1CCD39C}
+	EndGlobalSection
+EndGlobal
